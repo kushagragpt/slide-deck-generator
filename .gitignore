@@ -1,0 +1,13 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE folders (optional, but good practice)
+.idea/
+.vscode/
+
+# Output files (optional, keeps the repo clean)
+*.pptx
